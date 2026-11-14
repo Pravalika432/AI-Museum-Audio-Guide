@@ -1,0 +1,7 @@
+
+streamlit
+pillow
+google-genai
+requests
+python-dotenv
+edge-tts
